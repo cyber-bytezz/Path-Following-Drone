@@ -7,7 +7,9 @@
 
 This repository presents a sophisticated simulation of a Path-Following Drone in CoppeliaSim, a state-of-the-art robotics simulator. The project showcases the seamless integration of Path-Following Algorithms, offering a robust platform to test and refine drone control strategies in a simulated environment.
 
-![Demo Video](https://github.com/cyber-bytezz/path-following-drone/assets/130319315/906d18f1-0149-46b1-8fc6-390a0dbbc7c3)
+![Demo Video](https://github.com/cyber-bytezz/Path-Following-Drone/assets/130319315/df6a67a7-8e32-46ee-b33a-6e2676dd4c49}
+
+
 
 ## Features
 

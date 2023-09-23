@@ -2,11 +2,10 @@
 
 ## Introduction
 
-This repository contains the code and resources for a path-following drone simulation in CoppeliaSim. This
+This repository contains the code and resources for a path-following drone simulation in CoppeliaSim. This project aims to demonstrate the implementation of path-following algorithms for drones within a simulated environment.
 
+# Demo Video
 https://github.com/cyber-bytezz/path-following-drone/assets/130319315/906d18f1-0149-46b1-8fc6-390a0dbbc7c3
-
- project aims to demonstrate the implementation of path-following algorithms for drones within a simulated environment.
 
 ## Features
 
